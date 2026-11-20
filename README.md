@@ -1,5 +1,5 @@
 # XP Cyber Range Labs
-Six XP Cyber Range labs highlighting the tools used, technical skills practiced, and lessons learned.
+XP Cyber Range labs highlighting the tools used, technical skills practiced, and lessons learned.
 
 The labs cover removable-media security, access management,
 defensive remediation, system hardening, authentication, and
