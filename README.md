@@ -9,12 +9,12 @@ Windows workstation troubleshooting.
 
 | Lab | Focus | 
 |-----|-------|
-| [Dangerous Drives [NG]](./01-dangerous-drives/) | Removable-media security and file integrity |
-| [Interns & HR on the Domain Controller [NG]](./02-domain-controller-access-management/) | Account administration and access control |
-| [Preventative Protection: Thwarting the Imminent Threat [NG]](./03-preventative-protection/) | Defensive remediation and threat prevention | 
-| [Vulnerability Scan Complete, Begin System Hardening [NG]](./04-vulnerability-remediation-and-hardening/) | Vulnerability remediation and system hardening |
-| [Strengthening System Security [NG]](./05-strengthening-system-security/) | SSH public-key and one-time-password authentication | 
-| [Helpdesk Fun: User Workstation Nightmares [NG]](./06-workstation-troubleshooting/) | Windows troubleshooting and network resource access |
+| [Dangerous Drives ](./01-dangerous-drives/) | Removable-media security and file integrity |
+| [Interns & HR on the Domain Controller ](./02-domain-controller-access-management/) | Account administration and access control |
+| [Preventative Protection: Thwarting the Imminent Threat ](./03-preventative-protection/) | Defensive remediation and threat prevention | 
+| [Vulnerability Scan Complete, Begin System Hardening ](./04-vulnerability-remediation-and-hardening/) | Vulnerability remediation and system hardening |
+| [Strengthening System Security ](./05-strengthening-system-security/) | SSH public-key and one-time-password authentication | 
+| [Helpdesk Fun: User Workstation Nightmares ](./06-workstation-troubleshooting/) | Windows troubleshooting and network resource access |
 
 ## Documentation
 
